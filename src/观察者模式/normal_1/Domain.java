@@ -1,5 +1,12 @@
 package 观察者模式.normal_1;
 
+/**
+ * 观察者模式
+ * -------------------------
+ * 作者: yg
+ * 时间: 2018-10-26 下午3:27:04   
+ *
+ */
 public class Domain {
 
 	public static void main(String[] args) {
